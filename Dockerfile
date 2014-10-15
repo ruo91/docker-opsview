@@ -1,7 +1,7 @@
 #
 # Dockerfile - OPSVIEW
 #
-FROM     centos:latest
+FROM     centos:centos6
 MAINTAINER Yongbok Kim <ruo91@yongbok.net>
 
 # OPSVIEW
